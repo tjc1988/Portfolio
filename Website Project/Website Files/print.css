@@ -1,0 +1,26 @@
+header, main, footer { display: block; }
+
+* { box-sizing: border-box;}
+
+body { margin:0;
+       background-color: #FFFFFF;}
+
+header { text-align: center;
+         background-color: #ffffff;
+         color: #000000;}
+
+nav {display: none;}
+
+aside {display: none;}
+
+img {display: none;}
+
+main { background-color: #FFFFFF;
+       color: #000000;}
+
+main h2 { color: #000000;
+          background-color: #FFFFFF;}
+
+footer { text-align: center;
+         color: #000000;
+         background-color: #FFFFFF;}
